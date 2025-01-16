@@ -13,3 +13,4 @@ Salonee
 You can check this out with 
 
 <br>
+https://personalsalonee.vercel.app/
